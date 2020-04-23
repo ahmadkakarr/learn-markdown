@@ -2,15 +2,11 @@
 
 ## profood.com.pk
 
-profood.com.pk
-
 [Portal link](https://pk6.pknic.net.pk/pk5/login.PK "click me")
 
 [profood.com.pk](profood.com.pk "domain that i own").
 
 Digital Studio LTD.
-
-Purchase data  2019-05-15.
 
 Expiry date **2021-05-15**
 
@@ -38,6 +34,7 @@ this is the domain that i purchased for some one.[^1]
 | 2   | Ahmad    | 0321 |
 | 3   | Shahzaib |
 
+short cut is **alt+shift+f** for table formatting
 - - -
 
 > "blonde
@@ -58,6 +55,18 @@ this is the domain that i purchased for some one.[^1]
 - yes.
 
 - - -
+
+### useful links
+
+1. [Building markdown editor with vs code and pandoc](https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/ "this link has reference to other sources too")
+
+- - -
+
+### useful plugins for markdown
+
+- Markdown all in one
+- markdownlint
+- Markdown footnotes
 
 - - -
 
