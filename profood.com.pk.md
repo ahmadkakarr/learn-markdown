@@ -53,7 +53,14 @@ id | Name | No. |
 
 
 - - -
-### for biblographical references
-[Author of school management system reop][hrshadin]
 
-[hrshadin]: https://github.com/hrshadhin/school-management-system 
+
+
+
+
+- - -
+### for biblographical references
+[Author of school management system][hrshadhin]
+
+[hrshadhin]: https://github.com/hrshadhin/school-management-system 
+
