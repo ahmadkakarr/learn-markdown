@@ -1,3 +1,5 @@
+# Digital Studio	![Digital Studio Pvt Limited Logo](https://lh4.googleusercontent.com/-iTqOrg25K3E/AAAAAAAAAAI/AAAAAAAAAAA/AKmTcTtIdB4/s44-p-k-no-ns-nd/photo.jpg)
+
 
 ## profood.com.pk
 profood.com.pk
@@ -13,7 +15,7 @@ Expiry date **2021-05-15**
 
 - - - 
 ### orderd list			
-[go to unorderd list example](#unorderd-list)
+[go to unorderd list example](#unorderd-list "for on same page navigation")
 
 1.
 2. kya 
@@ -47,3 +49,11 @@ id | Name | No. |
 - demo 2
 - demo 3
 	- demo 4
+
+
+
+- - -
+### for biblographical references
+[Author of school management system reop][hrshadin]
+
+[hrshadin]: https://github.com/hrshadhin/school-management-system 
