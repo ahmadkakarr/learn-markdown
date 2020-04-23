@@ -79,4 +79,6 @@ while a:
 
 change the video id only in example below the id is *EwULkmtLJP0*
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=EwULkmtLJP0" target="_blank"><img src="http://img.youtube.com/vi/EwULkmtLJP0/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="340" border="3"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EwULkmtLJP0"  
+target="_blank"><img src="http://img.youtube.com/vi/EwULkmtLJP0/0.jpg"  
+alt="IMAGE ALT TEXT HERE" width="480" height="340" border="3" /></a>
