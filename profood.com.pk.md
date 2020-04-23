@@ -14,13 +14,15 @@ Purchase data  2019-05-15.
 
 Expiry date **2021-05-15**
 
+this is the domain that i purchased for some one.[^1]
+
 ~~Ctech Solutions~~
 
 - - -
 
-### orderd list
+### ordered list
 
-[go to unorderd list example](#unorderd-list "for on same page navigation")
+[go to unordered list example](#unordered-list "for on same page navigation")
 
 1. hi
 2. kya
@@ -30,34 +32,36 @@ Expiry date **2021-05-15**
 
 - - -
 
-id | Name | No. |
----| ---  | --- |
-1 | Ali |
-2 | Ahmad | 0321 |
-3 | Shahzaib |
+| id  | Name     | No.  |
+| --- | -------- | ---- |
+| 1   | Ali      |
+| 2   | Ahmad    | 0321 |
+| 3   | Shahzaib |
 
 - - -
 
-> "bloque
-> qoutes
+> "blonde
+> quotes
 > are
 > here"
 
 - - -
 
-### unorderd list
+### unordered list
 
 - demo1
 - demo 2
 - demo 3
-  - demo 4
-  - demo 5
+  - hi how are you?
+  - kya bat hy.
+- how are you ?
+- yes.
 
 - - -
 
 - - -
 
-### for biblographical references
+### for bibliographical references
 
 [Author of school management system][hrshadhin]
 
@@ -75,10 +79,12 @@ while a:
 
 - - -
 
-### for youtube videos
+### for Youtube videos
 
 change the video id only in example below the id is *EwULkmtLJP0*
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EwULkmtLJP0"  
 target="_blank"><img src="http://img.youtube.com/vi/EwULkmtLJP0/0.jpg"  
 alt="IMAGE ALT TEXT HERE" width="480" height="340" border="3" /></a>
+
+[^1]: this is example footnote
